@@ -33,7 +33,7 @@ public class Principal {
         System.out.println("Area: " + f.area());
         System.out.println("Perimetro: " + f.perimetro());
 
-        // RECTANGULO
+        
         f = new Rectangulo(5, 3);
         System.out.println("\nRectangulo");
         System.out.println("Area: " + f.area());
